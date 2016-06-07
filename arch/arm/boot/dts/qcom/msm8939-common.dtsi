@@ -1860,3 +1860,4 @@
 };
 
 #include "msm8939-gpu.dtsi"
+#include "cyanogenmod-xiaomi-common.dtsi"
