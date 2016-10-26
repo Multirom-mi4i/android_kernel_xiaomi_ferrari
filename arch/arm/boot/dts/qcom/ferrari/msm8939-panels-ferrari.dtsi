@@ -1,0 +1,21 @@
+/* Copyright (c) 2014, The Linux Foundation. All rights reserved.
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License version 2 and
+ * only version 2 as published by the Free Software Foundation.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ */
+
+#include "dsi-panel-sharp-r69431-720p-video.dtsi"
+#include "dsi-panel-auo-r61318-720p-video.dtsi"
+#include "dsi-panel-sharp-nt35595-1080p-video-ram.dtsi"
+#include "dsi-panel-jdi-nt35595-1080p-video-ram.dtsi"
+#include "dsi-panel-jdi-rsp63311-1080p-video.dtsi"
+#include "dsi-panel-sharp-rsp61322-1080p-video.dtsi"
+#include "dsi-panel-auo-nt35596-1080p-video.dtsi"
+#include "dsi-panel-lgd-nt35596-1080p-video.dtsi"
+
